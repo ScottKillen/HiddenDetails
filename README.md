@@ -54,9 +54,9 @@
 ![Create Mod Belt](images/screenshot.gif)
 
 The point of this project is to add subtle details to various mod textures while
-staying truew to the original textures. Tkae this belt texture from the Create Mod,
-for example. Note how this resourcepack adds a subtle serpentine pattern beneth
-the original texture for a more realistic feel.
+staying true to the original textures. Take this belt texture from the [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+mod for Minecraft, for example. Note how this resourcepack adds a subtle
+serpentine pattern beneth the original texture for a more realistic feel.
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -66,7 +66,7 @@ For additional information, see [CONTRIBUTING.md][contributing-url] for details.
 <!-- LICENSE -->
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Resource Pack Title</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ScottKillen" property="cc:attributionName" rel="cc:attributionURL">Author Name</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="<<<<<https://github.com/ScottKillen/MC-Hidden-Details-RP>>>>>" rel="dct:source">https://github.com/ScottKillen/MC-Hidden-Details-RP</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Resource Pack Title</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ScottKillen" property="cc:attributionName" rel="cc:attributionURL">Author Name</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="<<<<<<<<<<<https://github.com/ScottKillen/MC-Hidden-Details-RP>>>>>>>>>>>" rel="dct:source">https://github.com/ScottKillen/MC-Hidden-Details-RP</a>.
 
 <!-- CONTACT -->
 ## Contact
