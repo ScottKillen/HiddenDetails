@@ -7,4 +7,7 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
-- Add [Create](https://www.curseforge.com/minecraft/mc-mods/create) belts
+## [1.0.0] - 2022-06-01
+
+### Added
+- Serpentine texture to [Create](https://www.curseforge.com/minecraft/mc-mods/create) belts
