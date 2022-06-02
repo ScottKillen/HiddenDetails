@@ -47,6 +47,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Attribution](#attribution)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -74,6 +75,10 @@ For additional information, see [CONTRIBUTING.md][contributing-url] for details.
 Scott Killen - [@scottkillen](https://twitter.com/scottkillen) - contact@scottkillen.com
 
 Project Link: [https://github.com/ScottKillen/MC-Hidden-Details-RP](https://github.com/ScottKillen/MC-Hidden-Details-RP)
+
+## Attribution
+
+Logo designed by [OpenMoji](https://openmoji.org/) – the open-source emoji and icon project. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
