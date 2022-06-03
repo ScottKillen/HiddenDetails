@@ -30,7 +30,7 @@
   <h3 align="center">Hidden Details</h3>
 
   <p align="center">
-    This reourcepack adds high resoulution details to default resolution textures.
+    This Minecraft resourcepack adds high resolution details to default resolution textures.
     <br />
     <br />
     <a href="https://github.com/ScottKillen/MC-Hidden-Details-RP/issues">Report Bug</a>
