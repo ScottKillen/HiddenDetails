@@ -30,7 +30,7 @@
   <h3 align="center">Hidden Details</h3>
 
   <p align="center">
-    This Minecraft resourcepack adds high resolution details to default resolution textures.
+    This Minecraft resource pack adds high-resolution details to default resolution textures.
     <br />
     <br />
     <a href="https://github.com/ScottKillen/MC-Hidden-Details-RP/issues">Report Bug</a>
@@ -56,8 +56,8 @@
 
 The point of this project is to add subtle details to various mod textures while
 staying true to the original textures. Take this belt texture from the [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-mod for Minecraft, for example. Note how this resourcepack adds a subtle
-serpentine pattern beneth the original texture for a more realistic feel.
+mod for Minecraft, for example. Note how this resource pack adds a subtle
+serpentine pattern beneath the original texture for a more realistic feel.
 
 <!-- CONTRIBUTING -->
 ## Contributing
