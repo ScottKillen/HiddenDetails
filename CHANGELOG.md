@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](//semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-06-02
+
+### Added
+- pack icon
+
 ## [1.0.0] - 2022-06-01
 
 ### Added
