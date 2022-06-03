@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ScottKillen/MC-Hidden-Details-RP">
-    <img src="images/logo.png" alt="Logo" width="120" height="120">
+    <img src="source/pack.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">Hidden Details</h3>
